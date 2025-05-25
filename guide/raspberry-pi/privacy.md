@@ -23,9 +23,8 @@ We configure Tor to run your node anonymously.
 ---
 
 Running your own Bitcoin and Lightning node at home makes you a direct, sovereign peer on the Bitcoin network.
-However, if not configured without privacy in mind, it also tells the world that there is someone with Bitcoin at that address.
-
-True, it's only your IP address that is revealed, but using services like [iplocation.net](https://www.iplocation.net){:target="_blank"}, your physical address can be determined quite accurately.
+However, if not configured without privacy in mind, it also tells the world that there is someone with Bitcoin at that address. 
+True, it's only your IP address that is revealed, but using services like [iplocation.net](https://www.iplocation.net){:target="_blank"}, your physical address can be determined quite accurately. 
 Especially with Lightning, your IP address would be widely used.
 We need to make sure that you keep your privacy.
 
